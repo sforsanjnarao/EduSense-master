@@ -95,5 +95,5 @@ The project development started with setting up the basic structure and database
 ## License
 
 MIT License
-Copyright (c) 2025 Yashraj Kushwah
+Copyright (c) 2025 Sanjana Kumari
 ---
